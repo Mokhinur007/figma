@@ -1,0 +1,24 @@
+.div_div{
+    background: #1E212C;
+    color: white;
+    width: 100%;
+    height: 440px;
+    
+}
+
+
+.wrap{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 70px 35px;
+    
+}
+
+.content{
+    display: flex;
+   
+}
+
+
+
